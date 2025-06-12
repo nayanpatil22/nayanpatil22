@@ -1,65 +1,43 @@
-<h1 align="center">𝙉𝘼𝙔𝘼𝙉 𝙋𝘼𝙏𝙄𝙇</h1>
-<p align="center">
-  <samp>
-    𝐃𝐞𝐯𝐎𝐩𝐬 ☁️ 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 | 𝐂𝐨𝐝𝐞 𝐂𝐫𝐚𝐟𝐭𝐬𝐦𝐚𝐧 | 𝐀𝐞𝐬𝐭𝐡𝐞𝐭𝐢𝐜 𝐎𝐯𝐞𝐫 𝐂𝐡𝐚𝐨𝐬 ⚙️
-  </samp>
-</p>
+# Nayan Patil
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Building+Infra+That+Doesn't+Break.;Writing+Code+That+Doesn't+Cry.;Learning+Relentlessly+Every+Day.">
-</p>
+> DevOps | Web | Problem Solver
 
----
+I build things that scale and automate the boring stuff. Currently diving deep into:
 
-### 🧭 About Me
-
-- 💻 I break stuff, then automate the fix.
-- 🌐 Building DevOps pipelines like Lego sets.
-- 🧪 Currently playing with: **AWS | Docker | GitHub Actions | Java | LeetCode**
-- ✍️ Documenting my grind one commit at a time.
+- 🐳 Docker & Kubernetes
+- ☁️ AWS & CI/CD
+- 💻 Java + DSA (LeetCode every day)
+- 🛠️ Linux, Git, Bash scripting
 
 ---
 
-### 🧰 Toolbox
+## 🧰 Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git,github,githubactions,html,css,js,java,py,vscode,postman" />
-</p>
-
----
-
-### 📈 Stats That Slap
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nayanpatil&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nayanpatil&theme=onedark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanpatil&theme=react-dark&hide_border=true" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-### 📂 Featured Projects
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayanpatil&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nayanpatil&theme=radical" />
-</p>
+![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayanpatil&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 ---
 
-### 🧠 Quote I Live By
+## 📝 Pinned Work
 
-> “Discipline beats motivation. Every. Damn. Time.”
+> Best work always speaks for itself. Check out the pinned repositories below 👇
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="300" />
-</p>
+## 📫 Reach Out
 
-<p align="center">
-  <samp>⬛ Building in silence. Shipping in public. ⬛</samp>
-</p>
+- LinkedIn: [linkedin.com/in/nayanpatil](https://linkedin.com/in/nayanpatil)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
