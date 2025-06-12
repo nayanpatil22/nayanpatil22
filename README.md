@@ -31,7 +31,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nayanpatil&theme=tokyonight&hide_border=true" height="165">
 </div>
 
-> 💡 *If commit count is low: use this time to push public projects — even small ones count.*
+
 
 ---
 
@@ -56,9 +56,9 @@
 ### 🧭 Quick Links
 
 <p align="center">
-  <a href="https://linkedin.com/in/nayanpatil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/nayanpatil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/nayanpatil22"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:nayanpatilofficial@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/nayanpatil22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
