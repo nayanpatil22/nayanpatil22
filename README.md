@@ -26,13 +26,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayanpatil&theme=tokyonight" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayanpatil&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nayanpatil&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nayanpatil&theme=tokyonight&utcOffset=+5" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanpatil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nayanpatil&theme=tokyonight&hide_border=true" height="165">
+</div>
 
 
 
