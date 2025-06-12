@@ -18,7 +18,7 @@
 ---
 
 ### 🛠️ My Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,aws,docker,kubernetes,git,github,vscode" />
 </p>
 
@@ -39,4 +39,4 @@
 
 ---
 
-> *“Make it work. Make it right. Make it fast.”*
+>  *“Make it work. Make it right. Make it fast.”*
