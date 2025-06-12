@@ -27,7 +27,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nayanpatil&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanpatil&theme=radical" height="180px"/>
 </p>
 
 ---
@@ -35,6 +34,8 @@
 ### 🔥 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nayanpatil&theme=github-compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanpatil&theme=radical" height="180px"/>
+
 </p>
 
 ---
