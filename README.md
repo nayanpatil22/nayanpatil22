@@ -12,7 +12,7 @@
 - 🧠 1 DSA Question a Day keeps the resume fresh 💪
 - 🎯 Goal: Crack high-paying remote jobs while vibing with code
 - 💬 Ask me about **Docker, GitHub Actions, or How to Make a Portfolio Stand Out**
-- 📫 Reach me at: [your email or linktree]
+- 📫 Reach me at: nayanpatilofficial@gmail.com
 - 🎧 Always coding with lo-fi in the background
 
 ---
@@ -33,7 +33,6 @@
 
 ### 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nayanpatil&theme=github-compact" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanpatil&theme=radical" height="180px"/>
 
 </p>
