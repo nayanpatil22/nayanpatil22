@@ -1,31 +1,42 @@
-# Hi, I'm Nayan Patil 👋  
-DevOps enthusiast • Web Developer • Problem Solver
+<h1 align="center">Hey 👋, I'm Nayan Patil</h1>
+<h3 align="center">🚀 DevOps & Web Enthusiast | Builder of Cool Stuff</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Eat+Code+Sleep+Repeat;DevOps+%7C+AWS+%7C+GitHub+Actions;Learning+Something+Cool+Everyday" />
+</p>
 
 ---
 
-### 🌱 About Me
-- 🎯 Currently diving deep into **DevOps & Cloud (AWS, Docker, CI/CD)**
-- 🔧 Building projects with **clean code** and **clear purpose**
-- 📚 Solving DSA daily and contributing to open source
-- 🧠 Always learning. Always building.
+- 🌱 I’m currently learning **DevOps, AWS, and Advanced Web Dev**
+- ⚡ I build APIs, automate stuff, and design frontends that don’t suck
+- 🧠 1 DSA Question a Day keeps the resume fresh 💪
+- 🎯 Goal: Crack high-paying remote jobs while vibing with code
+- 💬 Ask me about **Docker, GitHub Actions, or How to Make a Portfolio Stand Out**
+- 📫 Reach me at: [your email or linktree]
+- 🎧 Always coding with lo-fi in the background
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ My Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,aws,docker,git,github" height="30"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,aws,docker,kubernetes,git,github,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanpatil&show_icons=true&theme=calm&hide_title=true&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nayanpatil&theme=calm&hide_border=true" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanpatil&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanpatil&theme=radical" height="180px"/>
 </p>
 
 ---
 
-<!-- Optional Quotes or Footer -->
-> *Less is more. Build smart, not loud.*
+### 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nayanpatil&theme=github-compact" />
+</p>
 
+---
+
+> *“Make it work. Make it right. Make it fast.”*
