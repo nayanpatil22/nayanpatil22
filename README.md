@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Nayan Patil</h1>
+<h3 align="center">🚀 DevOps & Web Enthusiast | Builder of Cool Stuff</h3>
 
-<!--
-**nayanpatil22/nayanpatil22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Eat+Code+Sleep+Repeat;DevOps+%7C+AWS+%7C+GitHub+Actions;Learning+Something+Cool+Everyday" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **DevOps, AWS, and Advanced Web Dev**
+- ⚡ I build APIs, automate stuff, and design frontends that don’t suck
+- 🧠 1 DSA Question a Day keeps the resume fresh 💪
+- 🎯 Goal: Crack high-paying remote jobs while vibing with code
+- 💬 Ask me about **Docker, GitHub Actions, or How to Make a Portfolio Stand Out**
+- 📫 Reach me at: nayanpatilofficial@gmail.com
+- 🎧 Always coding with lo-fi in the background
+
+---
+
+### 🛠️ My Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,aws,docker,kubernetes,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanpatil&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanpatil&theme=radical" height="180px"/>
+</p>
+
+---
+
+### 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nayanpatil&theme=github-compact" />
+</p>
+
+---
+
+> *“Make it work. Make it right. Make it fast.”*
