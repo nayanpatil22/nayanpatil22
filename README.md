@@ -1,42 +1,65 @@
-<h1 align="center">Hey 👋, I'm Nayan Patil</h1>
-<h3 align="center">🚀 DevOps & Web Enthusiast | Builder of Cool Stuff</h3>
+<h1 align="center">𝙉𝘼𝙔𝘼𝙉 𝙋𝘼𝙏𝙄𝙇</h1>
+<p align="center">
+  <samp>
+    𝐃𝐞𝐯𝐎𝐩𝐬 ☁️ 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 | 𝐂𝐨𝐝𝐞 𝐂𝐫𝐚𝐟𝐭𝐬𝐦𝐚𝐧 | 𝐀𝐞𝐬𝐭𝐡𝐞𝐭𝐢𝐜 𝐎𝐯𝐞𝐫 𝐂𝐡𝐚𝐨𝐬 ⚙️
+  </samp>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Eat+Code+Sleep+Repeat;DevOps+%7C+AWS+%7C+GitHub+Actions;Learning+Something+Cool+Everyday" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Building+Infra+That+Doesn't+Break.;Writing+Code+That+Doesn't+Cry.;Learning+Relentlessly+Every+Day.">
 </p>
 
 ---
 
-- 🌱 I’m currently learning **DevOps, AWS, and Advanced Web Dev**
-- ⚡ I build APIs, automate stuff, and design frontends that don’t suck
-- 🧠 1 DSA Question a Day keeps the resume fresh 💪
-- 🎯 Goal: Crack high-paying remote jobs while vibing with code
-- 💬 Ask me about **Docker, GitHub Actions, or How to Make a Portfolio Stand Out**
-- 📫 Reach me at: nayanpatilofficial@gmail.com
-- 🎧 Always coding with lo-fi in the background
+### 🧭 About Me
+
+- 💻 I break stuff, then automate the fix.
+- 🌐 Building DevOps pipelines like Lego sets.
+- 🧪 Currently playing with: **AWS | Docker | GitHub Actions | Java | LeetCode**
+- ✍️ Documenting my grind one commit at a time.
 
 ---
 
-### 🛠️ My Stack
+### 🧰 Toolbox
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,aws,docker,kubernetes,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git,github,githubactions,html,css,js,java,py,vscode,postman" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Stats That Slap
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanpatil&show_icons=true&theme=radical" height="180px"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nayanpatil&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nayanpatil&theme=onedark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanpatil&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-### 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanpatil&theme=radical" height="180px"/>
+### 📂 Featured Projects
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayanpatil&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nayanpatil&theme=radical" />
 </p>
 
 ---
 
->  *“Make it work. Make it right. Make it fast.”*
+### 🧠 Quote I Live By
+
+> “Discipline beats motivation. Every. Damn. Time.”
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="300" />
+</p>
+
+<p align="center">
+  <samp>⬛ Building in silence. Shipping in public. ⬛</samp>
+</p>
