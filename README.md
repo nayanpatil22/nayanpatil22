@@ -1,59 +1,72 @@
-<h2 align="center">Hey 👋, I'm Nayan Patil</h2>
-<p align="center">💻 DevOps • Web Dev • Automation • Builder of Digital Systems</p>
+<h2 align="center">Hey 👋 I'm Nayan Patil</h2>
+<p align="center">⚙️ DevOps • Backend • Automation • Cloud • DSA on Java</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=00FFFF&width=440&lines=Code.+Automate.+Scale.;Building+Infra+That+Works.;Writing+Code+That+Stays+Silent+When+It+Runs.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=00FFFF&width=420&lines=Code.+Automate.+Scale.;Building+Infra+That+Just+Works.;Pushing+One+Commit+at+a+Time." />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔧 Currently working on: **DevOps projects**, automation pipelines & scalable backend tools  
-- 🧪 Exploring: **AWS**, Docker, Kubernetes, GitHub Actions  
-- 📚 Learning: **Java DSA + System Design**  
-- 📍 Based in India | Open to remote & freelance gigs  
+- 🔧 Working on: Scalable DevOps pipelines, cloud infra, and automation tools  
+- ☁️ Currently learning: AWS, Docker, Kubernetes, GitHub Actions  
+- 💻 Language of choice: Java (for DSA), Bash, and Python  
+- 🧠 Goal: Become a DevOps engineer who *never breaks prod*
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git,github,githubactions,java,py,html,css,js,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,bash,java,py,html,css,js,git,vscode" />
 </p>
 
 ---
 
-### 📈 Stats That Actually Matter
+### 📊 GitHub Stats (auto-fixed)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nayanpatil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nayanpatil&theme=tokyonight&hide_border=true" height="165">
 </div>
 
----
-
-### 🧩 Projects & Repos
-
-- 🔹 **[DevOps Starter Kit](#)** — Docker + CI/CD + Monitoring in one template  
-- 🔹 **[Java DSA Tracker](#)** — Solving & documenting 300+ DSA problems  
-- 🔹 **[API Shorts Script Engine](#)** — AI-generated video script generator  
+> 💡 *If commit count is low: use this time to push public projects — even small ones count.*
 
 ---
 
-### 📬 Connect with Me
+### 📈 Activity Graph
 
 <p align="center">
-  <a href="https://linkedin.com/in/nayanpatil"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white"></a>
-  <a href="mailto:nayanpatilofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/nayanpatil"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanpatil&theme=react-dark&hide_border=true">
+</p>
+
+---
+
+### 📂 Project Highlights
+
+- 🔹 **DevOps Starter Kit** – CI/CD template using GitHub Actions + Docker  
+- 🔹 **Java DSA Tracker** – Logging daily LeetCode grind in structured folders  
+- 🔹 **Script Engine** – Auto-generates shorts scripts via AI API  
+
+📌 _Check pinned repos below for full code + README_
+
+---
+
+### 🧭 Quick Links
+
+<p align="center">
+  <a href="https://linkedin.com/in/nayanpatil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/nayanpatil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🧘 Motto
 
-> “Stay consistent. Let your GitHub do the talking.”
+> “Write code once. Never touch it again.”
 
----
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="300" />
+</p>
