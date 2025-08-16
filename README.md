@@ -1,77 +1,77 @@
-# Hi there, I'm Nayan Patil 👋
-### Computer Engineering Student • DevOps & Cloud Enthusiast
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Nayan+Patil;Cloud+%E2%9A%A1%EF%B8%8F+DevOps+Engineer;Full-Stack+Developer;Stoic+Content+Creator" alt="Animated typing header" />
+</h1>
 
-[![Email](https://img.shields.io/badge/-nayanpatilofficial@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nayanpatilofficial@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
-[![YouTube](https://img.shields.io/badge/-Tuned_to_Stoic-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/YOUR_CHANNEL)
+<p align="center">
+  <a href="mailto:nayanpatilofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://youtube.com/YOUR_CHANNEL">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
----
-
-## 🛠️ Tech Arsenal
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-**Full Stack**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&border=7F3FBF&background=0D1117" alt="GitHub streak stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" alt="GitHub stats" width="49%" />
+</div>
 
 ---
 
-## 🔥 Recent Highlights
+## 🚀 Tech Stack & Tools
 
-- **DevOps Intern @ Codtech**  
-  🚀 Automated CI/CD pipelines using GitHub Actions, boosting deployment efficiency by 25%  
-  ☁️ Managed AWS infrastructure (EC2, S3) for application hosting  
-  ⚡ Automated deployment tasks with shell scripts, reducing manual effort by 20%
+### ☁️ Cloud & DevOps
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
+</div>
 
-- **Creator @ Tuned to Stoic**  
-  🎥 Built YouTube channel on philosophy & mindful living (10k+ subscribers)  
-  ✍️ Produced 50+ videos on Stoicism with professional editing and thumbnails
+### 💻 Languages & Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+</div>
 
-- **Projects**  
-  - **AI Mock Interview System**: Real-time voice-interactive platform with performance analytics
-  - **Docker Automation**: CI/CD pipeline reducing deployment time by 60%  
-  - **Video Agency Website**: Cinematic site with auto-play videos and animations
-
----
-
-## 📚 Certifications
-
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
-[![Python Pro](https://img.shields.io/badge/Python_Pro_Bootcamp-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-430098?style=for-the-badge&logo=fullstack&logoColor=white)]()
-
----
-
-## 🎭 Beyond Code
-
-- Theatre performer in 5+ productions 🎭  
-- IEEE Student Branch contributor 🌐  
-- Designed websites for international clients 🌍  
-- Hosted 200+ students during First-Year Induction program 🎤
+### 🗄️ Databases & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Projects
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+| Project | Technologies | Highlights |
+|---------|--------------|------------|
+| **[Real-Time AI Mock Interview](https://github.com/YOUR_USERNAME/project1)** | <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase" /> | • Real-time voice analysis<br>• Performance analytics dashboard<br>• AI-powered feedback system |
+| **[Docker Automation Pipeline](https://github.com/YOUR_USERNAME/project2)** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws" /> | • 60% faster deployments<br>• Automated container management<br>• Infrastructure-as-Code implementation |
+| **[Cinematic Production Website](https://github.com/YOUR_USERNAME/project3)** | <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel" /> | • Auto-play video integrations<br>• Smooth scroll animations<br>• Mobile-responsive design |
 
 ---
 
-> "The obstacle is the way" - Marcus Aurelius  
-> Building solutions at the intersection of technology and mindful creation
+## 🏆 Achievements
 
-[![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)](https://github.com/YOUR_USERNAME)
+<div align="center">
+  
+  ```mermaid
+  graph LR
+    A[DevOps Intern] --> B[25% Deployment Efficiency]
+    A --> C[20% Manual Effort Reduction]
+    D[Content Creator] --> E[Growing YouTube Channel]
+    D --> F[50+ Videos Produced]
+    G[Projects] --> H[60% Deployment Time Reduction]
