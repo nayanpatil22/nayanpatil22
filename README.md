@@ -1,54 +1,57 @@
-<h1 align="center">Hey 👋, I'm Nayan Patil</h1>
+<h1 align="center">✨ Hey, I'm <span style="color:#FF4D5A;">Nayan Patil</span> ✨</h1>
 <p align="center">
-💻 DevOps Enthusiast | ☁️ Cloud Explorer | 🎭 Storyteller  
+💻 DevOps Engineer in the making · ☁️ Cloud Explorer · 🎭 Creator  
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔧 Automating deployments & CI/CD pipelines (GitHub Actions · Jenkins · GitLab CI/CD)  
-- ☁️ Exploring AWS (EC2 · S3 · RDS · Lambda · CloudFormation)  
-- 🐳 Containerizing & orchestrating with Docker + Kubernetes  
-- 🎨 Designing cinematic websites (Next.js · Tailwind · Framer Motion)  
-- 🎤 Theatre performer & content creator — balance between code & creativity  
+## 🚀 About Me  
+🔥 Passionate about **DevOps, Cloud & Automation**  
+⚡ Skilled in building CI/CD pipelines, containerized apps, and cloud-native deployments  
+🎨 Love mixing **code + creativity** — from AWS to cinematic websites  
+🎤 Theatre performer & content creator (because life’s not just code 😉)  
 
 ---
 
-### 🔥 Featured Projects
-- 🗣️ [**Real-Time AI Mock Interview System**](https://github.com/nayanpatil22/Real-Time-AI-Mock-Interview-System)  
-AI-powered, voice-interactive mock interviews with real-time feedback  
+## 🌟 Featured Projects  
+🔹 [**Real-Time AI Mock Interview System**](https://github.com/nayanpatil22/Real-Time-AI-Mock-Interview-System)  
+Voice-interactive mock interviews with **real-time feedback**  
 
-- 🐳 [**Docker Automation with CI/CD**](https://github.com/nayanpatil22/Docker-Automation-CICD)  
-Automated Docker builds & AWS deployment using Jenkins + GitHub webhooks  
+🔹 [**Docker Automation with CI/CD**](https://github.com/nayanpatil22/Docker-Automation-CICD)  
+Jenkins + GitHub Webhooks → Automated Docker builds + AWS deployment  
 
-- 🎥 [**Video Production Agency Website**](https://github.com/nayanpatil22/vare-production)  
-Cinematic portfolio website with autoplay videos & smooth animations  
+🔹 [**Video Production Agency Website**](https://github.com/nayanpatil22/vare-production)  
+Cinematic website with autoplay videos & buttery-smooth animations  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,bash,aws,docker,kubernetes,jenkins,react,nextjs,nodejs,mysql,mongodb,git,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,python,bash,aws,docker,kubernetes,jenkins,react,nextjs,nodejs,mysql,mongodb,git,linux&perline=7" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Vibes  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanpatil22&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanpatil22&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanpatil22&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanpatil22&theme=tokyonight&hide_border=true" height="160"/>
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanpatil22&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-### 📬 Connect with Me
+## 📬 Let’s Connect  
 <p align="center">
-  <a href="mailto:nayanpatilofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/nayan-patil-603bb6270/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/u/nayanpatill22/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="mailto:nayanpatilofficial@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nayan-patil-603bb6270/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/nayanpatill22/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="https://www.youtube.com/@tunedtostoic"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ---
 
-<p align="center">✨ “Code like a developer, think like a philosopher, perform like an artist.” ✨</p>
+<h3 align="center">✨ “Code like a developer, think like a philosopher, perform like an artist.” ✨</h3>
